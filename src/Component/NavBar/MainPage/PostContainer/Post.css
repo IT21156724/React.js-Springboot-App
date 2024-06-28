@@ -1,0 +1,101 @@
+.post_container {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(166, 115, 177, 1);
+    border-radius: 10px;
+    margin-top: 15px;
+    flex: 1;
+}
+
+.post_header{
+    display: flex;
+    height: 50px;
+}
+
+.post_header_img{
+    margin: 2px;
+}
+
+.post_header_text{
+   font-weight: 700;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+
+.post_description{
+    display: flex;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.post_image{
+    margin: 10px;
+}
+
+.post_likeCountConntainer{
+    display: flex;
+    height: 30px;
+    padding: 0px 10px;
+    border-bottom: 1px solid #cdd0d4;
+}
+
+.post_img{
+    height: 20px;
+    width: 20px;
+}
+
+.post_likeCount{
+    margin-left: 5px;
+}
+
+
+.post_likeShare{
+    display: flex;
+    height: 40px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.post_tab{
+    display: flex;
+    width: 200px;
+    margin-top: 15px;
+}
+
+.post_tabing{
+    width: 30px;
+}
+
+.post_tabtext{
+    margin: 5px;
+}
+
+
+.upload_top {
+    display: flex;
+    align-items: center; /* Align items vertically within the flex container */
+}
+
+.post_header_img {
+    margin-left: 30px;
+    margin-right: 30px; /* Adjust margin between the image and input */
+}
+
+.upload-box {
+    height: 25px;
+    width: 500px;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    background-color: #EFEAF2;
+    font-size: 14px;
+    padding: 5px 10px;
+    margin: 20px;
+}
+
+.post_header_img {
+    border-radius: 50%; 
+}
+
+.upload_comment{
+    border-top: 1px solid #cdd0d4;
+}

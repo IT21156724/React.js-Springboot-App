@@ -1,0 +1,11 @@
+.layout-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+}
+
+.grid-item_middle {
+    /*border: 1px solid #ccc;
+    padding: 10px;*/
+    text-align: center;
+}
